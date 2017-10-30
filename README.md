@@ -4,7 +4,6 @@
 
 > A curated list of GDPR-compliant tools for websites creators.
 
-
   * Analytics
     * [Piwik](https://piwik.org/)
   * Maps
