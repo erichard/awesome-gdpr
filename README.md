@@ -11,6 +11,8 @@
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
   * Social
     * [SharingButtons.io](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
+  * Others
+    * [Cookie Consent](https://cookieconsent.insites.com/) - The most popular solution to the EU cookie law 
 
 ## What is GDPR ?
 
