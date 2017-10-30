@@ -5,6 +5,14 @@
 > A curated list of GDPR-compliant tools for websites creators.
 
 
+  * Analytics
+    * [Piwik](https://piwik.org/)
+  * Maps
+    * [Leaflet.js](http://leafletjs.com/)
+    * [Mapbox](https://www.mapbox.com/)
+  * Social
+    * [SharingButtons.io](http://sharingbuttons.io/)
+
 ## What is GDPR ?
 
 The Global Data Protection Regulation is a new EU regulation that will becomes enforceable from 25 May 2018.
