@@ -5,12 +5,12 @@
 > A curated list of GDPR-compliant tools for websites creators.
 
   * Analytics
-    * [Piwik](https://piwik.org/)
+    * [Piwik](https://piwik.org/) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
   * Maps
-    * [Leaflet.js](http://leafletjs.com/)
-    * [Mapbox](https://www.mapbox.com/)
+    * [Leaflet.js](http://leafletjs.com/) - an open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
+    * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
   * Social
-    * [SharingButtons.io](http://sharingbuttons.io/)
+    * [SharingButtons.io](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
 
 ## What is GDPR ?
 
