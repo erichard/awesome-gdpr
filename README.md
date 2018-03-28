@@ -14,6 +14,7 @@
     * [SharingButtons.io](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
   * Others
     * [Cookie Consent](https://cookieconsent.insites.com/) - The most popular solution to the EU cookie law 
+    * [Tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Another EU cookie law script that ask for consent for many third parties cookies.
 
 ## What is GDPR ?
 
