@@ -5,7 +5,7 @@
 > A curated list of GDPR-compliant tools for websites creators.
 
   * Analytics
-    * [Piwik](https://piwik.org/) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
+    * [Matomo](https://matomo.org/) - Matomo is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
   * Maps
     * [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
