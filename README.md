@@ -16,9 +16,10 @@
     * [OpenMapTiles](https://openmaptiles.com/) - Self-hosted maps build with open-source software
   * Social
     * [SharingButtons.io](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
-  * Others
+  * Cookies Management
     * [Cookie Consent](https://cookieconsent.insites.com/) - The most popular solution to the EU cookie law 
     * [Tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Another EU cookie law script that ask for consent for many third parties cookies.
+    * [CookieBot](https://www.cookiebot.com/en/) - Commercial Product - Cookiebot helps make your use of cookies and online tracking GDPR and ePR compliant
 
 ## What is GDPR ?
 
