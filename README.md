@@ -13,6 +13,7 @@
   * Maps
     * [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
+    * [OpenCage Geocoder](https://geocoder.opencagedata.com) - An API for high volume reverse and forward geocoding.
     * [OpenMapTiles](https://openmaptiles.com/) - Self-hosted maps build with open-source software
   * Social
     * [SharingButtons.io](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
