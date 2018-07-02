@@ -4,6 +4,8 @@
 
 > A curated list of GDPR-compliant tools for websites creators.
 
+  * Development libraries
+    * [Event-sourcery](https://github.com/event-sourcery/event-sourcery) -  A Minimalistic PHP Event Sourcing / CQRS Library with GDPR Support 
   * Analytics
     * [Matomo](https://matomo.org/) - Matomo is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
   * Checklist
