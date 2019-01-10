@@ -4,6 +4,8 @@
 
 > A curated list of GDPR-compliant tools for websites creators.
 
+  * Records of processing activities
+    * [GDPR Registry Web App](https://gdpr.pluribus-one.it/en/registry_app) - An open-source web application to keep track of all data processing activities according to GDPR article 30.
   * Development libraries
     * [Event-sourcery](https://github.com/event-sourcery/event-sourcery) -  A Minimalistic PHP Event Sourcing / CQRS Library with GDPR Support 
   * Analytics
@@ -26,5 +28,5 @@
 
 ## What is GDPR ?
 
-The Global Data Protection Regulation is a new EU regulation that will becomes enforceable from 25 May 2018.
+The Global Data Protection Regulation is a new EU regulation that has become enforceable from 25 May 2018.
 
