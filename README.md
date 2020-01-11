@@ -26,5 +26,5 @@
 
 ## What is GDPR ?
 
-The General Data Protection Regulation is a new EU regulation that will becomes enforceable from 25 May 2018.
+The General Data Protection Regulation is a new EU regulation enforced since 25 May 2018.
 
