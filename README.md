@@ -8,6 +8,7 @@
     * [Event-sourcery](https://github.com/event-sourcery/event-sourcery) -  A Minimalistic PHP Event Sourcing / CQRS Library with GDPR Support 
   * Analytics
     * [Matomo](https://matomo.org/) - Matomo is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
+    * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
   * DSAR
