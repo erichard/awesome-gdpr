@@ -11,8 +11,6 @@
     * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
-  * DSAR
-    * [GDPR Form](https://gdprform.io) - Commercial Product - Manage and fulfill requests for data access, portability, and erasure. Easy-to-configure web form for your customers & website visitors.
   * Maps
     * [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
@@ -25,6 +23,7 @@
     * [Tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Another EU cookie law script that ask for consent for many third parties cookies.
     * [CookieBot](https://www.cookiebot.com/en/) - Commercial Product - Cookiebot helps make your use of cookies and online tracking GDPR and ePR compliant
   * Data Subject Rights Management (DSAR)
+    * [GDPR Form](https://gdprform.io) - Commercial Product - Manage and fulfill requests for data access, portability, and erasure. Easy-to-configure web form for your customers & website visitors.
     * [Osano](https://www.osano.com) - Commercial Product - An easy solution to data privacy laws.
     * [OneTrust](https://www.onetrust.com/) - Commercial Product - Technology to Power Your Privacy, Security and Third-Party Risk Programs 
 
