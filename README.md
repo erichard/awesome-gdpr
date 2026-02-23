@@ -20,6 +20,7 @@
     * [SharingButtons.io](http://sharingbuttons.io/) - Super fast and easy Social Media Sharing Buttons. No JavaScript. No tracking.
   * Cookies Management
     * [Cookie Consent](https://www.osano.com/cookieconsent) - The most popular solution to the EU cookie law 
+    * [GetCookies](https://getcookies.co) - Cookie consent manager with automatic cookie scanning, customizable banners, and built-in compliance reporting for GDPR and ePrivacy.
     * [Tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Another EU cookie law script that ask for consent for many third parties cookies.
     * [CookieBot](https://www.cookiebot.com/en/) - Commercial Product - Cookiebot helps make your use of cookies and online tracking GDPR and ePR compliant
   * Data Subject Rights Management (DSAR)
@@ -30,4 +31,3 @@
 ## What is GDPR ?
 
 The General Data Protection Regulation is a new EU regulation enforced since 25 May 2018.
-
