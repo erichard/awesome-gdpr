@@ -22,6 +22,7 @@
     * [Cookie Consent](https://www.osano.com/cookieconsent) - The most popular solution to the EU cookie law 
     * [Tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Another EU cookie law script that ask for consent for many third parties cookies.
     * [CookieBot](https://www.cookiebot.com/en/) - Commercial Product - Cookiebot helps make your use of cookies and online tracking GDPR and ePR compliant
+    * [CookieBoss](https://cookieboss.io/) - Commercial Product - Lightweight cookie consent platform with a server-rendered zero-CLS banner, automatic cookie scanning, geo-targeting and Google Consent Mode v2. Free tier for one domain.
   * Data Subject Rights Management (DSAR)
     * [GDPR Form](https://gdprform.io) - Commercial Product - Manage and fulfill requests for data access, portability, and erasure. Easy-to-configure web form for your customers & website visitors.
     * [Osano](https://www.osano.com) - Commercial Product - An easy solution to data privacy laws.
