@@ -9,6 +9,7 @@
   * Analytics
     * [Matomo](https://matomo.org/) - Matomo is the leading open-source analytics platform that gives you more than just powerful analytics. Can be self hosted or cloud hosted.
     * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
+    * [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
   * Maps
