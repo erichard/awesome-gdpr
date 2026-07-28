@@ -31,3 +31,8 @@
 
 The General Data Protection Regulation is a new EU regulation enforced since 25 May 2018.
 
+
+
+## AI & Automated Decision Making
+
+- [Gracestack AI-Policy](https://tools.gracestack.se/ai-policy.html) — AI Act + GDPR compliance policy template. Includes DPIA requirements, lawful basis documentation, data minimization, and automated decision-making safeguards. Swedish company (org.nr 559480-0000). 499 SEK.
