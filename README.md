@@ -11,6 +11,10 @@
     * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
+  * Testing & audit
+    * [Google Fonts Checker](https://howsafeismyapp.com/tools/google-fonts-checker) - Free passive test for whether a site loads Google Fonts from Google's servers (transmitting visitor IPs), with a self-hosting fix.
+    * [Security Headers Check](https://howsafeismyapp.com/tools/security-headers-check) - Free test for CSP, HSTS, X-Frame-Options and nosniff security headers on any URL.
+    * [Impressum Checker](https://howsafeismyapp.com/tools/impressum-check) - Free check for whether a site has a discoverable imprint (§ 5 DDG) and privacy policy.
   * Maps
     * [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
