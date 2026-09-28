@@ -11,6 +11,8 @@
     * [Fathom](https://usefathom.com/) - Fathom, simple analytics for bloggers & businesses
   * Checklist
     * [GDPR Checklist](https://gdprchecklist.io) - The GDPR Compliance Checklist - This is a basic checklist you can use to harden your GDPR compliancy.
+  * Audit
+    * [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - Scans a website's cookies, consent banner, trackers and legal pages against the GDPR and the site's own national rules, e.g. the Dutch analytics-cookie exemption (Telecommunicatiewet art. 11.7a), UK PECR, the German Impressum (§ 5 DDG) and French mentions légales. The free scan returns a risk score and issue counts.
   * Maps
     * [Leaflet.js](http://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. Good replacement for Google Maps. 
     * [Mapbox](https://www.mapbox.com/) - A complete SDK to build Maps, Search and/or Navigation system.
